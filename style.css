@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+font-family: "Roboto", sans-serif;
+}
+/* carousels css */
+.carousel-item h5{
+    color: #ffffff;
+    font-size: 48px;
+}
+.carousel-item p {
+    color: #ffffff;
+    font-size: 16px;
+}
+.carousel-item button {
+    height: 44px;
+    width: 168px;
+    color: #3F87F5;
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/* sectio 2 starts from hare  */
+.fest_pic{
+    height: 364px;
+    width: 546px;
+}
+.fa-check{
+    border-radius: 50%;
+    background-color:#848199 ;
+    margin-right: 12px;
+}
+ul{
+    text-align: start;
+    font-family: "Roboto", sans-serif;
+
+}
+li{
+    list-style-type: none;
+    font-family: "Roboto", sans-serif;
+   
+}
+.card{
+    height: 100%;
+    width: auto;
+    font-family: "Roboto", sans-serif;
+}
+.card_conteiner{
+    /* height: 517px; */
+    width: 1100px;
+    font-family: "Roboto", sans-serif;
+}
+.button{
+    width: 207px;
+    height: 47px;
+    background-color:#E1CBD9 ;
+    color:#3F87F5 ;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+}
+.package{
+    margin-top: 112px;
+    margin-bottom: 112px;
+    font-family: "Roboto", sans-serif;
+}
+.hot{
+  width: 46px;
+  height: 27px;
+  margin-top: -15px;
+  margin-inline-end: -10px;  
+  background-color:#FF4E4E ;
+  color: #ffffff;
+  border-radius: 20px;
+  text-align: center;
+font-family: "Roboto", sans-serif;
+}
+.third-card{
+    color: #ffffff;
+    background-color: #3F87F5;
+}
+/* section 5 */
+.section-5-card-conteiner{
+    height: 323px;
+    width: 1160px;
+}
+.happy{
+    text-align: center;
+    margin-top: 112px;
+    margin-bottom: 112px;
+    font-family: "Roboto", sans-serif;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+/* section 6 */
+.Frequently{
+    text-align: center;
+        margin-top: 112px;
+        margin-bottom: 112px;
+        font-family: "Roboto", sans-serif;
+
+}
+.event{
+    height:364px ;
+    width: 546px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+.bottom-div{
+    height: 460px;
+    width: 1122px;
+}
+/* footer start from hare  */
+.second_div img{
+    margin-top: 15px;
+}
